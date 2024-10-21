@@ -1,5 +1,8 @@
 package com.dsa.stack.Stack_Example_02;
 
+/**
+ * Stack implementation using Arrays
+ */
 public class UseStack {
 
     public static void main(String[] args) {

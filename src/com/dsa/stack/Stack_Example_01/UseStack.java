@@ -4,6 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+/**
+ * Stack implementation using Arrays
+ */
 public class UseStack {
 
     public static void main(String[] args) throws IOException {
